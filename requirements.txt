@@ -23,3 +23,5 @@ pillow==11.0.0
 # Optional utilities
 requests==2.32.3
 beautifulsoup4==4.13.4
+
+pytz==2025.2
